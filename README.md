@@ -4,6 +4,7 @@ Local Variational Similarity Model
 
 ## Citation
 
+```
 @article{DBLP:journals/tois/ChenWZYMR20,
   author    = {Yifan Chen and
                Yang Wang and
@@ -24,3 +25,4 @@ Local Variational Similarity Model
   biburl    = {https://dblp.org/rec/journals/tois/ChenWZYMR20.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
