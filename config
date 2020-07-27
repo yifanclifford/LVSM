@@ -1,0 +1,6 @@
+work_dir: ../result
+dataset_dir: ../dataset
+dataset: beauty
+feature: feature.txt
+num_negative: 1
+test_batch: 50
